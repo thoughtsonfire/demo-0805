@@ -1,0 +1,297 @@
+[
+    {
+        "timePoint": 1,
+        "content": "1弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕1",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕2",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕3",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕4",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕6",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕7",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕8",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕9",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕10",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕11",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 1,
+        "content": "1弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 1.1,
+        "content": "1.1弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 1.2,
+        "content": "1.2弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 2,
+        "content": "2弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 2.1,
+        "content": "2.1弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 2.1,
+        "content": "2.1弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 2.2,
+        "content": "2.2弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.5,
+        "content": "2.5弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 2
+    },
+    {
+        "timePoint": 2.6,
+        "content": " 2.6弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 1
+    },
+    {
+        "timePoint":3,
+        "content": " 3弹幕0",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 3
+    },
+    {
+        "timePoint":3,
+        "content": " 3弹幕1",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 3
+    },
+    {
+        "timePoint":3,
+        "content": " 3弹幕2",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 3
+    },
+    {
+        "timePoint":3,
+        "content": " 3弹幕3",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 3
+    },
+    {
+        "timePoint":3,
+        "content": " 3弹幕4",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 3
+    },
+    {
+        "timePoint":3,
+        "content": " 3弹幕5",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 3
+    },
+    {
+        "timePoint":3,
+        "content": " 3弹幕6",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 3
+    },
+    {
+        "timePoint":3,
+        "content": " 3弹幕7",
+        "fontsize": 14,
+        "color": "red",
+        "mode": 3
+    },
+    {
+        "timePoint":5,
+        "content": " 3弹幕7",
+        "fontsize": 14,
+        "color": "blue",
+        "mode": 3
+    },
+    {
+        "timePoint":5,
+        "content": " 3弹幕7",
+        "fontsize": 14,
+        "color": "blue",
+        "mode": 3
+    },
+    {
+        "timePoint":5,
+        "content": " 3弹幕7",
+        "fontsize": 14,
+        "color": "blue",
+        "mode": 3
+    }
+
+]
